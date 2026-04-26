@@ -18,3 +18,7 @@ Ce projet consiste à initialiser une application web avec Laravel (back-end) et
 
 ## Auteur
 Mamie Nogaye Rahma Sylla
+Adji Deguene Diagne
+Ndeye Khodia Sene
+Baba Sidibe
+Mouhamed Diouf
